@@ -1,13 +1,16 @@
 # Лекции 3 семестра [Технопарка mail.ru](https://park.mail.ru/feed/) осень 2021 года
+
 ## HighLoad
+
 ### Лекция №1
+
 Запись:
 
-https://cloud.mail.ru/public/ieQu/9sGzpUpBX - видео
+[Видео](https://cloud.mail.ru/public/ieQu/9sGzpUpBX)
 
-https://cloud.mail.ru/public/pQrk/vhXqDnZrY - слайды, PDF
+[Слайды, PDF](https://cloud.mail.ru/public/pQrk/vhXqDnZrY)
 
-https://cloud.mail.ru/public/HJBy/mk4zu4xCs - слайды, PPTX
+[Слайды, PPTX](https://cloud.mail.ru/public/HJBy/mk4zu4xCs)
 
 Литература:
 
@@ -19,13 +22,14 @@ https://cloud.mail.ru/public/HJBy/mk4zu4xCs - слайды, PPTX
  - [The Art of Capacity Planning (ISBN: 978-0-596-51857-8)](https://cloud.mail.ru/public/6c57b78b5c36/The-Art-of-Capacity-Planning.pdf)
 
 ### Лекция №2
+
 Запись:
 
-https://cloud.mail.ru/public/a7sH/beHQgQraL - видео
+[Видео](https://cloud.mail.ru/public/a7sH/beHQgQraL)
 
-https://cloud.mail.ru/public/8Mau/tKmAN3kqb - слайды, PDF
+[Слайды, PDF](https://cloud.mail.ru/public/8Mau/tKmAN3kqb)
 
-https://cloud.mail.ru/public/wuEW/emkYAHoKT - слайды, PPTX
+[Слайды, PPTX](https://cloud.mail.ru/public/wuEW/emkYAHoKT)
 
 Литература:
 
@@ -62,13 +66,14 @@ https://cloud.mail.ru/public/wuEW/emkYAHoKT - слайды, PPTX
  - [Curose-Ross - Computer Networking](https://cloud.mail.ru/public/ETzs/dHNbgbkYs) - хорошая книга по устройству сетей (PDF)
 
 ### Лекция №3
+
 Запись:
 
-https://cloud.mail.ru/public/Cvcq/ykmSeN5aS - видео
+[Видео](https://cloud.mail.ru/public/Cvcq/ykmSeN5aS)
 
-https://cloud.mail.ru/public/bMaH/B4LLiL7Fh - слайды, PDF
+[Слайды, PDF](https://cloud.mail.ru/public/bMaH/B4LLiL7Fh)
 
-https://cloud.mail.ru/public/FmnV/RYdG6y5ap - слайды, PPTX
+[Слайды, PPTX](https://cloud.mail.ru/public/FmnV/RYdG6y5ap)
 
 Материалы к лекции:
 
@@ -100,11 +105,11 @@ https://cloud.mail.ru/public/FmnV/RYdG6y5ap - слайды, PPTX
 
 Запись:
 
-https://cloud.mail.ru/public/8Ck4/S79Fcm8mw - видео
+[Видео](https://cloud.mail.ru/public/8Ck4/S79Fcm8mw)
 
-https://cloud.mail.ru/public/pF76/yAuuaRA4r - слайды, PDF
+[Слайды, PDF](https://cloud.mail.ru/public/pF76/yAuuaRA4r)
 
-https://cloud.mail.ru/public/hFXo/DCPTJxmrx - слайды, PPTX
+[Слайды, PPTX](https://cloud.mail.ru/public/hFXo/DCPTJxmrx)
 
 Литература:
 
@@ -121,3 +126,47 @@ https://cloud.mail.ru/public/hFXo/DCPTJxmrx - слайды, PPTX
  - [Статистика Backblaze, научный подход к анализу надёжности накопителей](https://habrahabr.ru/post/348754/)
 
  - [Linux Page Cache Basics](https://www.thomas-krenn.com/en/wiki/Linux_Page_Cache_Basics)
+
+## Безопасность интернет-приложений
+
+### Лекция №1
+
+Запись:
+
+[Видео](https://mailru.zoom.us/rec/share/EMdJuWDwmQeqC3HaJz8CjNyvHtx-oUOt6x_pIONaopieZXGrzQIktYSdln-q-8Op.pXzQC276abBhArBP?startTime=1631027123000)
+
+[Слайды](https://docs.google.com/presentation/d/1HCbLcJnQlPDQ6ql4O0IS23du8KaBdHLuSGJ320ht33o/edit?usp=sharing)
+
+Домашнее задание:
+1. Зарегистрироваться в Portswigger web security academy https://portswigger.net/web-security 
+2. Пройти лабы по темам:
+     - command injection
+     - sql injection
+     - xxe
+
+### Лекция №2
+
+Запись:
+
+[Видео](https://mailru.zoom.us/rec/share/kpW4mj54A5u5TTViE_u0RabWqsNA0kBr4jLqCd8lNDCeR88zVQQeZVrbsRNIRBo.3yTIl0jCyd-pf4oW?startTime=1631631916000)
+
+[Слайды](https://docs.google.com/presentation/d/1WExqWrXz2DuVTmaHeQuIhoQXl80dl8khdZV27RsHnDY/edit?usp=sharing)
+
+### Лекция №3
+
+Запись:
+
+[Видео](https://mailru.zoom.us/rec/share/XSc3M-FRRXru3IwwJySnOWbqlpthMEcjg6SXDmlTD9kYtKDh5NC-hO0qc-HQ7J36.-D29DIGXzpleirIf)
+
+[Слайды](https://docs.google.com/presentation/d/1BcH3qAOdIpUgDv6OT3RITNVA2cJtfe9AxI9SbFlFrUc/edit?usp=sharing)
+
+Для успешного решения контрольной работы на следующем занятии рекомендую научиться решать задания https://portswigger.net/web-security/all-labs из разделов 
+ - SQL injection
+ - Command injection
+ - XSS
+ - XXE
+ - SSRF
+
+Так же напоминаю, что до 5 октября жду от вас решения домашнего задания
+https://docs.google.com/document/d/1QaQ-Nc_eE4dBKZwQbA4E2o8pOJ3CktgsKDAn375iY24/edit#
+
